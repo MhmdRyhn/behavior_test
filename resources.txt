@@ -1,0 +1,12 @@
+>> Getting Started with Behavior Testing in Python with Behave
+https://semaphoreci.com/community/tutorials/getting-started-with-behavior-testing-in-python-with-behave
+
+>> Run multiple feature file in behave
+https://stackoverflow.com/questions/40606828/how-to-run-multiple-feature-file-in-behave-using-pycharm-professional
+
+>> Handling Exceptions in Python Behave Testing framework
+https://stackoverflow.com/questions/27894993/handling-exceptions-in-python-behave-testing-framework
+
+>> Comment and block comment in Gherkin
+https://coderwall.com/p/6-jdra/how-to-comment-in-a-feature-file
+https://stackoverflow.com/questions/7113594/how-to-do-block-comments-in-gherkin
