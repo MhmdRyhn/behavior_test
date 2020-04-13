@@ -7,6 +7,3 @@ Feature: As a client of this software,
     Given I have an initial amount of $2000 in my account
     When I withdraw $120 from my account
     Then It remains $1880 in my account
-
-
-
