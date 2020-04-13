@@ -10,3 +10,6 @@ https://stackoverflow.com/questions/27894993/handling-exceptions-in-python-behav
 >> Comment and block comment in Gherkin
 https://coderwall.com/p/6-jdra/how-to-comment-in-a-feature-file
 https://stackoverflow.com/questions/7113594/how-to-do-block-comments-in-gherkin
+
+>> Context Attributes
+https://behave.readthedocs.io/en/latest/context_attributes.html
